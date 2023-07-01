@@ -1,5 +1,5 @@
-# Computer-Vision-Project-1-Vehicle-Counter-With-YOLOv8
-Contains project that counts the no of vehicle using pretrained YOLOv8.
+# Vehicle Counter Using YOLOv8
+Contains a project that counts the no of vehicles using pre-trained YOLOv8.
 
 # GIF
 <p align="center">
